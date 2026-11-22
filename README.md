@@ -1,2 +1,2 @@
 # INS-Visualizer
-![Принципова схема](docs/schematic.png)
+![Принципова схема](docs/ins_schematic_pic.png)
